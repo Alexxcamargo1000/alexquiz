@@ -1,0 +1,43 @@
+{
+    "bg": "https://i2.wp.com/www.selectgame.com.br/wp-content/uploads/2019/12/Marvels-Spider-Man-para-o-PS4-Screenshot-Full-HD.jpg?fit=1920%2C1080&ssl=1",
+    "title": "Spider-man QUIZ",
+    "description": "Teste os seus conhecimentos sobreO melhor amigo da vizinhança",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "title": "Como fazer um seletor por id via CSS?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Como fazer um background gradiente com css?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#2B3784",
+        "secondary": "#B11313",
+        "mainBg": "#171B35",
+        "contrastText": "#FFFFFF",
+        "wrong": "#B11313",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
